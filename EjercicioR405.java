@@ -35,5 +35,6 @@ class EjercicioR405
         return repetida;
     }
     // A continuación puedes escribir otros métodos si lo necesitas...
+    
 }
 
